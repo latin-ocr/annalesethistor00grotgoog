@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./annalesethistor00grotgoog/annalesethistor00grotgoog_0093.png"; bbox 0 0 2900 4628; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 146 216 2656 458">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 146 216 2656 458">
+     <span class='ocr_line' id='line_1_1' title="bbox 546 216 2437 339; baseline -0.001 -18"><span class='ocrx_word' id='word_1_1' title='bbox 546 245 1326 323; x_wconf 65' lang='lat' dir='ltr'>ANNALLVM</span> <span class='ocrx_word' id='word_1_2' title='bbox 1440 249 1937 320; x_wconf 56' lang='lat' dir='ltr'>tta-111.</span> <span class='ocrx_word' id='word_1_3' title='bbox 2235 216 2437 339; x_wconf 59' lang='grc' dir='ltr'>σφ’·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 146 346 2656 458; baseline 0.002 -27"><span class='ocrx_word' id='word_1_4' title='bbox 146 349 385 431; x_wconf 63' lang='lat' dir='ltr'>{ultima</span> <span class='ocrx_word' id='word_1_5' title='bbox 407 346 817 431; x_wconf 65' lang='lat' dir='ltr'><strong>defenderet.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 887 358 1020 431; x_wconf 82' lang='lat' dir='ltr'>Sed</span> <span class='ocrx_word' id='word_1_7' title='bbox 1036 358 1265 431; x_wconf 80' lang='lat' dir='ltr'>rudem</span> <span class='ocrx_word' id='word_1_8' title='bbox 1285 359 1438 431; x_wconf 80' lang='lat' dir='ltr'>belli</span> <span class='ocrx_word' id='word_1_9' title='bbox 1465 415 1489 431; x_wconf 87' lang='grc'><strong>.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1540 364 1615 431; x_wconf 86' lang='lat'>&amp;</span> <span class='ocrx_word' id='word_1_11' title='bbox 1649 359 2140 431; x_wconf 79' lang='lat' dir='ltr'><strong>incommfitam</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2158 351 2328 431; x_wconf 84' lang='lat' dir='ltr'><strong>mul-</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2386 360 2599 458; x_wconf 85' lang='lat'>1581.</span> <span class='ocrx_word' id='word_1_14' title='bbox 2649 416 2656 426; x_wconf 82' lang='grc'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
